@@ -1,7 +1,7 @@
 package principal_danielcosta.pizzaria;
 /**
  *
- * @author Daniel Costa, Gabriel Massenssini, Iury Simon, Rafael Eustáquio
+ * @author Daniel Costa
  */
 import java.util.HashMap;
 import java.util.Map;
@@ -65,3 +65,4 @@ public class Pizza{
         return sb.toString();
     }
 }
+
