@@ -1,7 +1,7 @@
 package principal_danielcosta.pizzaria;
 /**
  *
- * @author Daniel Costa, Gabriel Massenssini, Iury Simon, Rafael Eustáquio
+ * @author Daniel Costa
  */
 public class ItemPedido {
     private String descricao;
@@ -39,3 +39,4 @@ public class ItemPedido {
         return String.format("%s (x%d) - R$ %.2f", descricao, quantidade, getTotalItem());
     }
 }
+
