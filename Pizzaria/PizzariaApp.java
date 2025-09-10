@@ -1,7 +1,7 @@
 package principal_danielcosta.pizzaria;
 /**
  *
- * @author Daniel Costa, Gabriel Massenssini, Iury Simon, Rafael Eustáquio
+ * @author Daniel Costa
  */
 import javax.swing.*;
 import java.awt.*;
