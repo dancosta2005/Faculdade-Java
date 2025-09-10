@@ -1,7 +1,7 @@
 package principal_danielcosta.pizzaria;
 /**
  *
- * @author Daniel Costa, Gabriel Massenssini, Iury Simon, Rafael Eustáquio
+ * @author Daniel Costa
  */
 public class Bebida {
     private String nome;
@@ -25,3 +25,4 @@ public class Bebida {
         return nome;
     }
 }
+
