@@ -1,7 +1,7 @@
 package principal_danielcosta.pizzaria;
 /**
  *
- * @author Daniel Costa, Gabriel Massenssini, Iury Simon, Rafael Eustáquio
+ * @author Daniel Costa
  */
 import javax.swing.*;
 import javax.swing.event.ListSelectionEvent;
@@ -241,3 +241,4 @@ public class PizzaPainel extends JPanel {
         atualizarPrecoPizzaPersonalizada();
     }
 }
+
