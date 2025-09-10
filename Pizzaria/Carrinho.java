@@ -1,7 +1,7 @@
 package principal_danielcosta.pizzaria;
 /**
  *
- * @author Daniel Costa, Gabriel Massenssini, Iury Simon, Rafael Eustáquio
+ * @author Daniel Costa
  */
 import java.util.ArrayList;
 import java.util.List;
@@ -51,3 +51,4 @@ public class Carrinho {
         return itens.isEmpty();
     }
 }
+
